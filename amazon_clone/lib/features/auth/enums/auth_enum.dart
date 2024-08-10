@@ -1,0 +1,4 @@
+enum Auth {
+  signIn,
+  signUp,
+}
